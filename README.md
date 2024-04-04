@@ -1,0 +1,2 @@
+# scalpbot
+4binance
