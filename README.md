@@ -1,2 +1,2 @@
 # scalpbot
-4binance
+4binance n some other
