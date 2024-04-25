@@ -1,2 +1,5 @@
 # scalpbot
-4binance n some other
+4binance n some other, trading in low timeframe
+
+
+
